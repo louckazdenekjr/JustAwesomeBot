@@ -2,6 +2,8 @@
   "dependencies": {
     "discord.js": "^12.4.1",
     "node": "^15.2.1",
-    "ytdl-core": "^4.0.5"
+    "ytdl-core": "^4.0.5",
+    "ytpl": "^1.0.1",
+    "ytsr": "^1.0.4"
   }
 }
