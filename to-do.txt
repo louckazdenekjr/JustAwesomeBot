@@ -1,5 +1,0 @@
-fix playlists
-add spotify
-commands from a separate channel
-
-hosting

@@ -1,0 +1,3 @@
+cannot parse playlists
+optional: add spotify
+optional: receive commands from a separate channel
