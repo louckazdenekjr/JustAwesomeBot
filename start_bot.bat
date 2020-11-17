@@ -1,1 +1,1 @@
-node app.js --trace-warnings
+node main.js --trace-warnings
