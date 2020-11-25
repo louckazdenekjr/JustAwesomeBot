@@ -46,11 +46,10 @@ let getPermissionLevel = (member) => {
 client.login(config.token)
 
 /*
-implement
+implement:
 parse playlists
 
-optionally implement
-
+optionally implement:
 add spotify, 
 receive commands from a separate channel
 */
