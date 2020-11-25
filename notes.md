@@ -4,5 +4,5 @@ parse playlists
 
 ## optionally implement
 
-add spotify
+add spotify, 
 receive commands from a separate channel
